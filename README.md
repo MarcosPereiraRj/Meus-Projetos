@@ -1,2 +1,5 @@
 # Meus Projetos
- primeiros projetos
+ Primeiros projetos
+
+ Repositório criado durante uma aula ao vivo.
+
